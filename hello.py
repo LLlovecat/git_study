@@ -1,4 +1,4 @@
-print("Hello from master")
+print("Hello from feature")
 print('Learning Git')
 print('Feature branch')
 
