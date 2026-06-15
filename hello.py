@@ -8,3 +8,11 @@ print("Welcome to feature branch")
 print("练习取消暂存")print('amend test')
 print("changed on GitHub")
 print("changed on GitHub1")
+
+
+def greet(name: str) -> str:
+    return f"Hello, {name}"
+
+
+print(greet("GitHub"))
+
