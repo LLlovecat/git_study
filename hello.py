@@ -4,3 +4,5 @@ print('Feature branch')
 
 print("Hello Git")
 print("Welcome to feature branch")
+
+print("练习取消暂存")
